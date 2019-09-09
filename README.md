@@ -41,6 +41,10 @@ Make sure to [CD](http://www.linfo.org/cd.html) into the folder and type **./qqq
 Don't even try to crack or steal this code, you won't succeed.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Video Showcase
+[![Video](https://i.imgur.com/E3XhMCl.jpg)](https://www.youtube.com/watch?v=SC3cN-s4_VA)
+
+
 ## Help
 
 * DM me on Discord if you need help with anything specific @ offIine#0001
