@@ -1,4 +1,6 @@
-<p align="center"><img width=20.5% src="https://i.imgur.com/0qjFITR.png"></p>
+<p align="center"><img width=13.5% src="https://i.imgur.com/0qjFITR.png"></p>
+
+
 
 
 ## <center> It's finally here... </center>
