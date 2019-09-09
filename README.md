@@ -32,7 +32,8 @@ This bot is connected to my extremely fast monitor which isn't public and prolly
 
 ## How to 
 
-Download the script, CD in to the folder and type ./qqqqq in console. That's it!
+Download the bot from [this](https://downloads.samuelmikula.com/qqqqq.zip) link, unzip the file and place it to a new folder.
+Make sure to [CD](http://www.linfo.org/cd.html) into the folder and type **./qqqqq-macos** or **./qqqqq-linux** depending on your system.
 
 
 ## License
