@@ -10,7 +10,7 @@ Correct. I decided to make this divine revelation a public thing. My private Que
 #### Supported platforms
 - macOS
 - Linux
-- soon Windows
+- Windows (soon)
 
 No-one ever published a Queens bot before so here you go fellas. 
 I've been constantly working on this project for a very long time, all features are listed down bellow.
