@@ -7,6 +7,11 @@
 
 Correct. I decided to make this divine revelation a public thing. My private Queens bot becomes public as of now, unfortunately for some of y'all I'm not open-sourcing it but publishing the executable. If you think you're one of my very close friends in this Sneaker community, feel free to ask for a license key in my [DMs](https://twitter.com/messages/compose?recipient_id=998654195912925184).
 
+#### Supported platforms
+- macOS
+- Linux
+- soon Windows
+
 No-one ever published a Queens bot before so here you go fellas. 
 I've been constantly working on this project for a very long time, all features are listed down bellow.
 
